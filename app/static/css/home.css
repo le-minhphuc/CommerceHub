@@ -2,6 +2,29 @@ body {
     font-family: 'comfortaa-bold', sans-serif;
 }
 
+.commerce-hub-navbar {
+    height: 80px;
+    background-color: #002641;
+    opacity: 0.9;
+}
+
+.commerce-hub-navbar-text {
+    height: 80px;
+    font-size: 20px;
+    color: #FFFFFF;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.commerce-hub-title {
+    width: 100%;
+    height: 342px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
 @font-face {
     font-family: 'comfortaa-regular';
     src: url('../fonts/comfortaa/Comfortaa-Regular.ttf');
