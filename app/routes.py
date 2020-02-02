@@ -1,8 +1,10 @@
+from flask import render_template
+
 from app import commerce_hub_app
 
 @commerce_hub_app.route('/home')
 def home():
-    return "This is /home view"
+    return render_template('home.html')
 
 @commerce_hub_app.route('/register')
 def register():
