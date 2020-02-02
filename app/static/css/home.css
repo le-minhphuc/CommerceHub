@@ -1,0 +1,18 @@
+body {
+    font-family: 'comfortaa-bold', sans-serif;
+}
+
+@font-face {
+    font-family: 'comfortaa-regular';
+    src: url('../fonts/comfortaa/Comfortaa-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'comfortaa-bold';
+    src: url('../fonts/comfortaa/Comfortaa-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'comfortaa-light';
+    src: url('../fonts/comfortaa/Comfortaa-Light.ttf');
+}
